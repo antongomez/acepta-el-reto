@@ -1,0 +1,8 @@
+.vscode
+
+*/*.exe
+*/*.txt
+*/*.in
+*/*.ans
+*/*.py
+*/Makefile
