@@ -3,7 +3,7 @@
 
 int main()
 {
-
+    // Lonxitude en puntos de cada letra do alfabeto ingles
     std::unordered_map<char, int> puntosCaracter = {
         {'!', 19},
         {'?', 15},
@@ -62,6 +62,7 @@ int main()
             }
             else
             {
+                // Sumamos a lonxitude en puntos de cada letra
                 puntos += puntosCaracter[c];
 
                 // Entre letras dunha palabra hai 3 puntos
