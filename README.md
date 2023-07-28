@@ -4,6 +4,7 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 
 | Problema | Enunciado                                                                      | Solución                                                                                                    |
 | -------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| 637      | [El telegrama más corto](https://aceptaelreto.com/problem/statement.php?id=637) | [637.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/637%20El%20telegrama%20mas%20corto/637.cpp) |
 | 700      | [Las series más vistas](https://aceptaelreto.com/problem/statement.php?id=700) | [700.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/700%20Las%20series%20mas%20vistas/700.cpp) |
 | 701      | [Haciendo la compra](https://aceptaelreto.com/problem/statement.php?id=701)    | [701.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/701%20Haciendo%20la%20compra/701.cpp)      |
 | 702      | [Haciendo cuentas](https://aceptaelreto.com/problem/statement.php?id=702)      | [702.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/702%20Haciendo%20cuentas/702.cpp)          |
