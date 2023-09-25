@@ -4,6 +4,7 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 
 | Problema | Enunciado                                                                      | Solución                                                                                                    |
 | -------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| 397      | [¿Es múltiplo de tres?](https://aceptaelreto.com/problem/statement.php?id=397)| [397.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/397%20Es%20multiplo%20de%20tres/397.cpp) |
 | 419      | [Telesillas](https://aceptaelreto.com/problem/statement.php?id=419)| [419.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/419%20Telesillas/419.cpp) |
 | 637      | [El telegrama más corto](https://aceptaelreto.com/problem/statement.php?id=637)| [637.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/637%20El%20telegrama%20mas%20corto/637.cpp) |
 | 638      | [Familia numerosa](https://aceptaelreto.com/problem/statement.php?id=638)      | [638.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/638%20Familia%20numerosa/638.cpp) |
