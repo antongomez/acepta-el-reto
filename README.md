@@ -6,6 +6,7 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | -------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
 | 100      | [Constante de Kaprekar](https://aceptaelreto.com/problem/statement.php?id=100)| [100.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/100%20Constante%20de%20Kaprekar/100.cpp) |
 | 397      | [¿Es múltiplo de tres?](https://aceptaelreto.com/problem/statement.php?id=397)| [397.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/397%20Es%20multiplo%20de%20tres/397.cpp) |
+| 417      | [Nana al bebé de papá y mamá](https://aceptaelreto.com/problem/statement.php?id=417)| [417.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/417%20Nana%20al%20bebe%20de%20papa%20y%20mama/417.cpp) |
 | 419      | [Telesillas](https://aceptaelreto.com/problem/statement.php?id=419)| [419.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/419%20Telesillas/419.cpp) |
 | 444      | [La digestión de las serpientes](https://aceptaelreto.com/problem/statement.php?id=444)| [444.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/444%20La%20digestion%20de%20las%20serpientes/444.cpp) |
 | 458      | [En la mente del timonel](https://aceptaelreto.com/problem/statement.php?id=458)| [458.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/458%20En%20la%20mente%20del%20timonel/458.cpp) |
