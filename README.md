@@ -1,6 +1,6 @@
 # acepta-el-reto
 
-Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelreto.com/). Todas las soluciones subidas han recibido un AC por el juez en línea.
+Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelreto.com/). Todas las soluciones subidas han recibido un AC por el juez en línea. Mi nombre de usuario en Acepta el Reto es [antongomez](https://aceptaelreto.com/user/profile.php?id=30596).
 
 | Problema | Enunciado                                                                      | Solución                                                                                                    |
 | -------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
