@@ -20,3 +20,4 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | 704      | [Manualidades](https://aceptaelreto.com/problem/statement.php?id=704)          | [704.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/704%20Manualidades/704.cpp)                |
 | 705      | [Saltando al otro lado](https://aceptaelreto.com/problem/statement.php?id=705) | [705.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/705%20Saltando%20al%20otro%20lado/705.cpp) |
 | 707      | [La batalla por la Tierra Media](https://aceptaelreto.com/problem/statement.php?id=707)| [707.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/707%20La%20batalla%20por%20la%20Tierra%20Media/707.cpp) |
+| 708      | [Resolviendo encrucijadas](https://aceptaelreto.com/problem/statement.php?id=708)| [708.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/708%20Resolviendo%20encrucijadas/708.cpp) |
