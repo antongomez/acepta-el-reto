@@ -11,6 +11,7 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | 444      | [La digestión de las serpientes](https://aceptaelreto.com/problem/statement.php?id=444)| [444.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/444%20La%20digestion%20de%20las%20serpientes/444.cpp) |
 | 458      | [En la mente del timonel](https://aceptaelreto.com/problem/statement.php?id=458)| [458.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/458%20En%20la%20mente%20del%20timonel/458.cpp) |
 | 531      | [Los Ángeles. Noviembre, 2019](https://aceptaelreto.com/problem/statement.php?id=531)| [531.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/531%20Los%20Angeles.%20Noviembre%202019/531.cpp) |
+| 605      | [Ordenando el armario](https://aceptaelreto.com/problem/statement.php?id=605)| [605.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/605%20Ordenando%20el%20armario/605.cpp) |
 | 637      | [El telegrama más corto](https://aceptaelreto.com/problem/statement.php?id=637)| [637.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/637%20El%20telegrama%20mas%20corto/637.cpp) |
 | 638      | [Familia numerosa](https://aceptaelreto.com/problem/statement.php?id=638)      | [638.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/638%20Familia%20numerosa/638.cpp) |
 | 700      | [Las series más vistas](https://aceptaelreto.com/problem/statement.php?id=700) | [700.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/700%20Las%20series%20mas%20vistas/700.cpp) |
