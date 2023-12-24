@@ -5,6 +5,7 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | Problema | Enunciado                                                                      | Solución                                                                                                    |
 | -------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
 | 100      | [Constante de Kaprekar](https://aceptaelreto.com/problem/statement.php?id=100)| [100.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/100%20Constante%20de%20Kaprekar/100.cpp) |
+| 118      | [Apuesta con recetas](https://aceptaelreto.com/problem/statement.php?id=118)| [118.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/118%20Apuesta%20con%20recetas/118.cpp) |
 | 397      | [¿Es múltiplo de tres?](https://aceptaelreto.com/problem/statement.php?id=397)| [397.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/397%20Es%20multiplo%20de%20tres/397.cpp) |
 | 417      | [Nana al bebé de papá y mamá](https://aceptaelreto.com/problem/statement.php?id=417)| [417.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/417%20Nana%20al%20bebe%20de%20papa%20y%20mama/417.cpp) |
 | 419      | [Telesillas](https://aceptaelreto.com/problem/statement.php?id=419)| [419.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/419%20Telesillas/419.cpp) |
