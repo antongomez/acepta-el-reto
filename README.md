@@ -17,6 +17,7 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | 545      | [Ahorrando fuerzas](https://aceptaelreto.com/problem/statement.php?id=545)| [545.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/545%20Ahorrando%20fuerzas/545.cpp) |
 | 574      | [Gritos en Halloween](https://aceptaelreto.com/problem/statement.php?id=574)| [574.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/574%20Gritos%20en%20Halloween/574.cpp) |
 | 605      | [Ordenando el armario](https://aceptaelreto.com/problem/statement.php?id=605)| [605.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/605%20Ordenando%20el%20armario/605.cpp) |
+| 620      | [Juegos en cintas](https://aceptaelreto.com/problem/statement.php?id=620)| [620.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/620%20Juegos%20en%20cintas/620.cpp) |
 | 637      | [El telegrama más corto](https://aceptaelreto.com/problem/statement.php?id=637)| [637.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/637%20El%20telegrama%20mas%20corto/637.cpp) |
 | 638      | [Familia numerosa](https://aceptaelreto.com/problem/statement.php?id=638)      | [638.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/638%20Familia%20numerosa/638.cpp) |
 | 661      | [Los tesoros de la tumba de Tutankamón](https://aceptaelreto.com/problem/statement.php?id=661)      | [661.cpp](https://github.com/antongomez/acepta-el-reto/tree/main/661%20Los%20tesoros%20de%20la%20tumba%20de%20Tutankamon/661.cpp) |
