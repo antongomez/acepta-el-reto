@@ -5,7 +5,7 @@
 *.in
 *.ans
 *.res
-*.py
+*/*.py
 *.sh
 *Makefile
 
