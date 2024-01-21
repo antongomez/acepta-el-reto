@@ -2,6 +2,12 @@ import argparse
 import re
 
 
+def quitar_tildes(texto):
+    tildes = {"á": "a", "é": "e", "í": "i", "ó": "o", "ú": "u", "ü": "u"}
+    resultado = "".join(tildes.get(caracter, caracter) for caracter in texto)
+    return resultado
+
+
 # Recibe como argumento o numero do problema resolto e o nome do problema
 # e engade unha nova fila a táboa de problemas resoltos na posicion correspondente
 # do problema cos enlaces correspondentes
@@ -18,7 +24,9 @@ def engadir_fila_taboa(arquivo_md, numero, nome):
                         print(f"O problema {numero} xa está na táboa")
                         return
                     elif int(linha.split(" ")[1].strip()) > numero:
-                        nome_en_url = nome.replace(" ", "%20")
+                        # Contruimos a parte do nome do problema na url (quitamos tildes e colocamos os '%20' en lugar dos espazos)
+                        nome_en_url = quitar_tildes(nome).replace(" ", "%20")
+                        # Contruimos a nova fila da taboa
                         nova_linha = f"| {numero}      | [{nome}](https://aceptaelreto.com/problem/statement.php?id={numero})              | [{numero}.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/{numero}%20{nome_en_url}/{numero}.cpp)                        |"
                         linhas.insert(linhas.index(linha), nova_linha + "\n")
                         break
