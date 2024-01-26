@@ -26,6 +26,7 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | 637      | [El telegrama más corto](https://aceptaelreto.com/problem/statement.php?id=637)                | [637.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/637%20El%20telegrama%20mas%20corto/637.cpp)                      |
 | 638      | [Familia numerosa](https://aceptaelreto.com/problem/statement.php?id=638)                      | [638.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/638%20Familia%20numerosa/638.cpp)                                |
 | 661      | [Los tesoros de la tumba de Tutankamón](https://aceptaelreto.com/problem/statement.php?id=661) | [661.cpp](https://github.com/antongomez/acepta-el-reto/tree/main/661%20Los%20tesoros%20de%20la%20tumba%20de%20Tutankamon/661.cpp) |
+| 669      | [Lámpara de pared](https://aceptaelreto.com/problem/statement.php?id=669)              | [669.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/669%20Lampara%20de%20pared/669.cpp)                        |
 | 700      | [Las series más vistas](https://aceptaelreto.com/problem/statement.php?id=700)                 | [700.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/700%20Las%20series%20mas%20vistas/700.cpp)                       |
 | 701      | [Haciendo la compra](https://aceptaelreto.com/problem/statement.php?id=701)                    | [701.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/701%20Haciendo%20la%20compra/701.cpp)                            |
 | 702      | [Haciendo cuentas](https://aceptaelreto.com/problem/statement.php?id=702)                      | [702.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/702%20Haciendo%20cuentas/702.cpp)                                |
@@ -35,4 +36,4 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | 707      | [La batalla por la Tierra Media](https://aceptaelreto.com/problem/statement.php?id=707)        | [707.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/707%20La%20batalla%20por%20la%20Tierra%20Media/707.cpp)          |
 | 708      | [Resolviendo encrucijadas](https://aceptaelreto.com/problem/statement.php?id=708)              | [708.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/708%20Resolviendo%20encrucijadas/708.cpp)                        |
 
-Número de problemas resueltos: 30
+Número de problemas resueltos: 31
