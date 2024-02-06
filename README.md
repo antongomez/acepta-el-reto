@@ -9,6 +9,7 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | 153      | [Reloj a través del espejo](https://aceptaelreto.com/problem/statement.php?id=153)              | [153.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/153%20Reloj%20a%20traves%20del%20espejo/153.cpp)                        |
 | 158      | [Los saltos de Mario](https://aceptaelreto.com/problem/statement.php?id=158)                   | [158.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/158%20Los%20saltos%20de%20Mario/158.cpp)                         |
 | 215      | [De-reconstrucción](https://aceptaelreto.com/problem/statement.php?id=215)                     | [215.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/215%20De-reconstruccion/215.cpp)                                 |
+| 285      | [Las vacas pensantes](https://aceptaelreto.com/problem/statement.php?id=285)              | [285.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/285%20Las%20vacas%20pensantes/285.cpp)                        |
 | 292      | [Repartiendo paquetes](https://aceptaelreto.com/problem/statement.php?id=292)                  | [292.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/292%20Repartiendo%20paquetes/292.cpp)                            |
 | 367      | [Repartiendo regalos en tu calle](https://aceptaelreto.com/problem/statement.php?id=367)       | [367.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/367%20Repartiendo%20regalos%20en%20tu%20calle/367.cpp)           |
 | 397      | [¿Es múltiplo de tres?](https://aceptaelreto.com/problem/statement.php?id=397)                 | [397.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/397%20Es%20multiplo%20de%20tres/397.cpp)                         |
@@ -37,4 +38,4 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | 707      | [La batalla por la Tierra Media](https://aceptaelreto.com/problem/statement.php?id=707)        | [707.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/707%20La%20batalla%20por%20la%20Tierra%20Media/707.cpp)          |
 | 708      | [Resolviendo encrucijadas](https://aceptaelreto.com/problem/statement.php?id=708)              | [708.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/708%20Resolviendo%20encrucijadas/708.cpp)                        |
 
-Número de problemas resueltos: 32
+Número de problemas resueltos: 33
