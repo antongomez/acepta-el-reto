@@ -5,6 +5,7 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | Problema | Enunciado                                                                                      | Solución                                                                                                                          |
 | -------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | 100      | [Constante de Kaprekar](https://aceptaelreto.com/problem/statement.php?id=100)                 | [100.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/100%20Constante%20de%20Kaprekar/100.cpp)                         |
+| 103      | [Problemas de Herencia](https://aceptaelreto.com/problem/statement.php?id=103)              | [103.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/103%20Problemas%20de%20Herencia/103.cpp)                        |
 | 118      | [Apuesta con recetas](https://aceptaelreto.com/problem/statement.php?id=118)                   | [118.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/118%20Apuesta%20con%20recetas/118.cpp)                           |
 | 153      | [Reloj a través del espejo](https://aceptaelreto.com/problem/statement.php?id=153)              | [153.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/153%20Reloj%20a%20traves%20del%20espejo/153.cpp)                        |
 | 158      | [Los saltos de Mario](https://aceptaelreto.com/problem/statement.php?id=158)                   | [158.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/158%20Los%20saltos%20de%20Mario/158.cpp)                         |
@@ -38,4 +39,4 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | 707      | [La batalla por la Tierra Media](https://aceptaelreto.com/problem/statement.php?id=707)        | [707.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/707%20La%20batalla%20por%20la%20Tierra%20Media/707.cpp)          |
 | 708      | [Resolviendo encrucijadas](https://aceptaelreto.com/problem/statement.php?id=708)              | [708.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/708%20Resolviendo%20encrucijadas/708.cpp)                        |
 
-Número de problemas resueltos: 33
+Número de problemas resueltos: 34
