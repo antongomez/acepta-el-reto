@@ -16,20 +16,18 @@ def engadir_fila_taboa(arquivo_md, numero, nome):
         linhas = file.readlines()
 
         for linha in linhas:
-            # Comprobamos se a linea é unha fila da taboa
-            if linha.startswith("|"):
-                # Comprobamos se a primeira palabra é un numero
-                if linha.split(" ")[1].strip().isdigit():
-                    if int(linha.split(" ")[1].strip()) == numero:
-                        print(f"O problema {numero} xa está na táboa")
-                        return
-                    elif int(linha.split(" ")[1].strip()) > numero:
-                        # Contruimos a parte do nome do problema na url (quitamos tildes e colocamos os '%20' en lugar dos espazos)
-                        nome_en_url = quitar_tildes(nome).replace(" ", "%20")
-                        # Contruimos a nova fila da taboa
-                        nova_linha = f"| {numero}      | [{nome}](https://aceptaelreto.com/problem/statement.php?id={numero})              | [{numero}.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/{numero}%20{nome_en_url}/{numero}.cpp)                        |"
-                        linhas.insert(linhas.index(linha), nova_linha + "\n")
-                        break
+            # Comprobamos se a linea é unha fila da taboa e se a primeira palabra é un numero
+            if linha.startswith("|") and linha.split(" ")[1].strip().isdigit():
+                if int(linha.split(" ")[1].strip()) == numero:
+                    print(f"O problema {numero} xa está na táboa")
+                    return
+                elif int(linha.split(" ")[1].strip()) > numero:
+                    # Contruimos a parte do nome do problema na url (quitamos tildes e colocamos os '%20' en lugar dos espazos)
+                    nome_en_url = quitar_tildes(nome).replace(" ", "%20")
+                    # Contruimos a nova fila da taboa
+                    nova_linha = f"| {numero}      | [{nome}](https://aceptaelreto.com/problem/statement.php?id={numero})              | [{numero}.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/{numero}%20{nome_en_url}/{numero}.cpp)                        |"
+                    linhas.insert(linhas.index(linha), nova_linha + "\n")
+                    break
 
     with open(arquivo_md, "w", encoding="utf-8") as file:
         file.writelines(linhas)
