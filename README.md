@@ -20,6 +20,7 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | 444      | [La digestión de las serpientes](https://aceptaelreto.com/problem/statement.php?id=444)        | [444.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/444%20La%20digestion%20de%20las%20serpientes/444.cpp)            |
 | 445      | [Semana de la Informática](https://aceptaelreto.com/problem/statement.php?id=445)              | [445.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/445%20Semana%20de%20la%20Informatica/445.cpp)                    |
 | 458      | [En la mente del timonel](https://aceptaelreto.com/problem/statement.php?id=458)               | [458.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/458%20En%20la%20mente%20del%20timonel/458.cpp)                   |
+| 461      | [Conquistando bases imperiales](https://aceptaelreto.com/problem/statement.php?id=461)              | [461.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/461%20Conquistando%20bases%20imperiales/461.cpp)                        |
 | 531      | [Los Ángeles. Noviembre, 2019](https://aceptaelreto.com/problem/statement.php?id=531)          | [531.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/531%20Los%20Angeles.%20Noviembre%202019/531.cpp)                 |
 | 545      | [Ahorrando fuerzas](https://aceptaelreto.com/problem/statement.php?id=545)                     | [545.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/545%20Ahorrando%20fuerzas/545.cpp)                               |
 | 574      | [Gritos en Halloween](https://aceptaelreto.com/problem/statement.php?id=574)                   | [574.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/574%20Gritos%20en%20Halloween/574.cpp)                           |
@@ -39,4 +40,4 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | 707      | [La batalla por la Tierra Media](https://aceptaelreto.com/problem/statement.php?id=707)        | [707.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/707%20La%20batalla%20por%20la%20Tierra%20Media/707.cpp)          |
 | 708      | [Resolviendo encrucijadas](https://aceptaelreto.com/problem/statement.php?id=708)              | [708.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/708%20Resolviendo%20encrucijadas/708.cpp)                        |
 
-Número de problemas resueltos: 34
+Número de problemas resueltos: 35
