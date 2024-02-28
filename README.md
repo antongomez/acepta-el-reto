@@ -17,6 +17,7 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | 417      | [Nana al bebé de papá y mamá](https://aceptaelreto.com/problem/statement.php?id=417)           | [417.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/417%20Nana%20al%20bebe%20de%20papa%20y%20mama/417.cpp)           |
 | 419      | [Telesillas](https://aceptaelreto.com/problem/statement.php?id=419)                            | [419.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/419%20Telesillas/419.cpp)                                        |
 | 425      | [Aibofobia](https://aceptaelreto.com/problem/statement.php?id=425)              | [425.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/425%20Aibofobia/425.cpp)                        |
+| 435      | [El Pijote](https://aceptaelreto.com/problem/statement.php?id=435)              | [435.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/435%20El%20Pijote/435.cpp)                        |
 | 444      | [La digestión de las serpientes](https://aceptaelreto.com/problem/statement.php?id=444)        | [444.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/444%20La%20digestion%20de%20las%20serpientes/444.cpp)            |
 | 445      | [Semana de la Informática](https://aceptaelreto.com/problem/statement.php?id=445)              | [445.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/445%20Semana%20de%20la%20Informatica/445.cpp)                    |
 | 458      | [En la mente del timonel](https://aceptaelreto.com/problem/statement.php?id=458)               | [458.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/458%20En%20la%20mente%20del%20timonel/458.cpp)                   |
@@ -40,4 +41,4 @@ Resolución de algunos de los problemas de [¡Acepta el reto!](https://aceptaelr
 | 707      | [La batalla por la Tierra Media](https://aceptaelreto.com/problem/statement.php?id=707)        | [707.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/707%20La%20batalla%20por%20la%20Tierra%20Media/707.cpp)          |
 | 708      | [Resolviendo encrucijadas](https://aceptaelreto.com/problem/statement.php?id=708)              | [708.cpp](https://github.com/antongomez/acepta-el-reto/blob/main/708%20Resolviendo%20encrucijadas/708.cpp)                        |
 
-Número de problemas resueltos: 35
+Número de problemas resueltos: 36
